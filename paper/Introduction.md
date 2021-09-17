@@ -19,12 +19,12 @@ This entails allowing people to build up a fingerprint of their skills and inter
 
 There is an important distinction to be made before progressing any further.
 Finding a way to bypass topics that aren't interesting is not the same as allowing differing opinions on a specific topic to compete with each other in an individuals thoughts.
-The disfunction found in social media algorithms seems to stem from a failure to make this distinction, and a lot of benefit could be achieved from a formal method of debating different opinions on any specific topic. 
+The dysfunction found in social media algorithms seems to stem from a failure to make this distinction, and a lot of benefit could be achieved from a formal method of debating different opinions on any specific topic. 
 A newcomer to a topic should be encouraged to look at it from many different points of view, as well as being allowed to provide insights from a personal perspective.
 
 In order to reduce cognitive load, a process should be in place to converge on a minimal representation of an idea space without compromising its semantic structure.
 This should also take into account different languages and different levels of fluency in a given language.
-Convergence on a minimal grammar and vocabulary for expressing ideas would be helpful in crossing language barriers, and so would tools to study semantic overlap between terminology between different languages.
+Convergence on a minimal grammar and vocabulary for expressing ideas would be helpful in crossing language barriers, and so would tools to study semantic overlap between terminology in different languages.
 In language, abstract concepts are expressed in metaphoric constructions that map to more concrete semantic structures, like the way that time is expressed in terms of direction.
 Providing a way to study differences in these mappings would be useful in the process of translation and the availability information to different groups.
 
