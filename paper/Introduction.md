@@ -25,12 +25,12 @@ A newcomer to a topic should be encouraged to look at it from many different poi
 In order to reduce cognitive load, a process should be in place to converge on a minimal representation of an idea space without compromising its semantic structure.
 This should also take into account different languages and different levels of fluency in a given language.
 Convergence on a minimal grammar and vocabulary for expressing ideas would be helpful in crossing language barriers, and so would tools to study semantic overlap between terminology in different languages.
-In language, abstract concepts are expressed in metaphoric constructions that map to more concrete semantic structures, like the way that time is expressed in terms of direction.
+In language, abstract concepts are expressed in metaphoric mappings to more concrete semantic structures, like the way that time can be expressed in terms of direction (moving forward to the future), or as a valuable commodity (saving time).
 Providing a way to study differences in these mappings would be useful in the process of translation and the availability information to different groups.
 
-Because no one will be able to track the entire system of Catalyst, and because different perspectives, interests, and languages don't always overlap, it doesn't even make sense to leave things under centralized control in the long run.
+Because no one will be able to track the entire system of Catalyst---and because different perspectives, interests, and languages don't always overlap---it doesn't even make sense to leave things under centralized control in the long run.
 It could be beneficial to maintain some minimal structure that allows for cultural cohesion across different groups, but giving any individual a choice to pursue freedom and autonomy from the collective would be wise to consider as a basic human right.
-This is one of the underlying motivations behind the rise of cryptocurrency---that banks and governments should not have control over an individual's financial freedom.
+This is one of the underlying motivations behind the rise of crypto-currencies---that banks and governments should not have control over an individual's financial freedom.
 The same should be said about personal opinion.
 Consolidation of power is a magnet for dictatorial tendencies, and the freedom to opt out of any given system is an important balancing mechanism for mitigating that problem. 
 
