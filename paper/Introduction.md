@@ -34,7 +34,7 @@ This is one of the underlying motivations behind the rise of crypto-currencies--
 The same should be said about personal opinion.
 Consolidation of power is a magnet for dictatorial tendencies, and the freedom to opt out of any given system is an important balancing mechanism for mitigating that problem. 
 
-Over the course of this document, we will look at many different systems from many different fields and look for ways to describe the structures we find in simple terms.
+Over the course of this document, we will look at many different systems from many different fields and find ways to describe their structures in simple terms.
 We will also discuss the benefits and drawbacks of each system as it relates to producing optimal results within the constraints of the given system space.
 Another topic to consider is the meta-theory behind the production of this document and how it could be improved by the community over time without infringing on my right to express my personal opinions.
 Maintaining a historical context of idea development could play a role this non-infringement.
