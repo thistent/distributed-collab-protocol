@@ -26,23 +26,23 @@ In order to reduce cognitive load, a process should be in place to converge on a
 This should also take into account different languages and different levels of fluency in a given language.
 Convergence on a minimal grammar and vocabulary for expressing ideas would be helpful in crossing language barriers, and so would tools to study semantic overlap between terminology in different languages.
 In language, abstract concepts are expressed in metaphoric mappings to more concrete semantic structures, like the way that time can be expressed in terms of direction (moving forward to the future), or as a valuable commodity (saving time).
-Providing a way to study differences in these mappings would be useful in the process of translation and the availability information to different groups.
+Providing a way to study differences in these mappings would be useful in the process of translation and the availability of information to different groups.
 
 Because no one will be able to track the entire system of Catalyst---and because different perspectives, interests, and languages don't always overlap---it doesn't even make sense to leave things under centralized control in the long run.
 It could be beneficial to maintain some minimal structure that allows for cultural cohesion across different groups, but giving any individual a choice to pursue freedom and autonomy from the collective would be wise to consider as a basic human right.
 This is one of the underlying motivations behind the rise of crypto-currencies---that banks and governments should not have control over an individual's financial freedom.
 The same should be said about personal opinion.
-Consolidation of power is a magnet for dictatorial tendencies, and the freedom to opt out of any given system is an important balancing mechanism for mitigating that problem. 
+Consolidation of power is a magnet for dictatorial tendencies, and the freedom to opt out of any given system is an important balancing mechanism for mitigating that problem and act as a vote for systems that better fit the individual. 
 
 Over the course of this document, we will look at many different systems from many different fields and find ways to describe their structures in simple terms.
 We will also discuss the benefits and drawbacks of each system as it relates to producing optimal results within the constraints of the given system space.
-Another topic to consider is the meta-theory behind the production of this document and how it could be improved by the community over time without infringing on my right to express my personal opinions.
-Maintaining a historical context of idea development could play a role this non-infringement.
+Another topic to consider is the meta-theory behind the production of this document and how it could be improved by the community over time without infringing on my right to express my personal opinions as well as anyone else's right to challenge my assumptions.
+Maintaining a historical context of idea development could play a role this non-infringement as well as giving context to newcomers.
+
 Ideas for the future of this document and how it might be improved through distributed collaboration should map quite well to the process of producing a proposal in the Catalyst project.
 Having an adaptive and dynamic process for refining proposals should produce more robust results.
 As far as voting mechanisms, funding, and the establishment of reputation goes, others are working on those problems so we won't focus on them here except if they naturally present themselves within the beneficial aspects of the systems we explore.
 If my intuitions are correct, the way we view those things will be more productive if we take this approach.
 
-Our next step in this process is to look at defining a common technical vocabulary to reduce the possibility of miscommunication on my part.
-This can be seen as an instance of increasing cross-cultural availability of a set of ideas and how they relate to each other.
-
+Our next step in this process is to look at the nature of language and to start defining a shared technical vocabulary for the production of a protocol specification.
+Some of the discussion on producing a vocabulary for use in this document can be extended to the process of increasing cross-cultural availability of a set of ideas and how they relate to each other---reducing miscommunication while accepting the flexibility of language and how it results in the many forms of communication we see around the globe.
